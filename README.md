@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Conducting AI Research<br>🌱 Python for Artificial Intelligence, data preprocessing, and the fundamentals of mechanical engineering.<br>⚡ I'm a 4th-semester Software Engineering student and a girl who loves building "brains" for machines!<br> UI/UX Designer 
+🔭 I’m currently working on: Conducting AI Research<br>🌱 Python for Artificial Intelligence, data preprocessing, and the fundamentals of mechanical engineering.<br>⚡ I'm a 5th-semester Software Engineering student and a girl who loves building "brains" for machines!<br> UI/UX Designer 
 
 
 ## 🌐 Socials:
