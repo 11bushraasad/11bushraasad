@@ -1,6 +1,6 @@
-# 🤖 Bushra Asad | AI & Robotics Enthusiast
+# 🤖 Bushra Asad | AI, Robotics & Web Development
 
-### `Software Engineering Student` • `AI Research` • `UI/UX Designer`
+### `Software Engineering Student` • `AI Research` • `Web Developer` • `UI/UX Designer`
 
 I'm a **5th-semester Software Engineering student** passionate about Artificial Intelligence, robotics, and building the software that powers intelligent machines.
 
